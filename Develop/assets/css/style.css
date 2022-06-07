@@ -4,9 +4,11 @@
     margin: 0;
 }
 
+/* Body Style Start */
 body {
     background-color: #d9dcd6;
 }
+/* Body Style End */
 
 /* Header Style Start */
 .header {
@@ -207,5 +209,8 @@ p {
 
 .footer h2 {
     font-size: 20px;
+}
+.footer a {
+    color: darkgoldenrod;
 }
 /* Footer Style End*/
