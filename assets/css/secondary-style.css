@@ -25,6 +25,7 @@
 }
 /* Header Style End*/
 
+/* Paragraph and Text Style Start */
 .p {
     margin-right: 20px;
     padding: 20px;
@@ -41,4 +42,5 @@
 .h3 {
     color: green;
 }
+/* Paragraph and Text Style End */
 
