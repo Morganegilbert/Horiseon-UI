@@ -22,7 +22,7 @@
 <br>
 
 ### 4th. Footer:
-#### At the bottom of the page is the copyright and a link to the Privacy Policy
+#### At the bottom of the page is the copyright
 <br>
 
 # Screenshot Below:
@@ -34,4 +34,4 @@
 <br>
 ## Horiseon: https://morganegilbert.github.io/Horiseon-UI/
 <Br>
-## Privacy Policy: https://morganegilbert.github.io/Horiseon-UI/privacy-policy
+## Privacy Policy: https://morganegilbert.github.io/Horiseon-UI/privacy-policy (Link has been removed from Horiseon footer)
