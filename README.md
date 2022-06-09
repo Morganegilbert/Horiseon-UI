@@ -3,7 +3,7 @@
 ## Horiseon Marketing - UI
 <br>
 
-### Within this website, there are four main areas: a Header, Section, Benefits, and Footer 
+### Within this website, there are four main areas: Header, Section, Benefits, and Footer 
 
 ### 1st. The Header:
 #### Horiseon (Which includes navigation links to the three focuses under Section)
