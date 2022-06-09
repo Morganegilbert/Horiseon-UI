@@ -1,21 +1,28 @@
 # Code Refactor Starter Code
 # Description:
 ## Horiseon Marketing - UI
-## 
-### Within this website, there are three main sections.
+<br>
+
+### Within this website, there are four main areas: a Header, Section, Benefits, and Footer 
+
+### 1st. The Header:
+#### Horiseon (Which includes navigation links to the three focuses under Section)
+<br>
+
+### 2nd. Section:
 #### Search Engine Optimization
 #### Online Reputation Management
 #### Social Media Marketing
 <br>
 
-### At the top of the page are the respective navigation links to path the user to the respective section.
-<br>
-
-### Near the mid-portion of the sight on the right-hand side are three more sub-sections.
+### 3rd. Benefits:
 #### Lead Generation
 #### Brand Awareness
 #### Cost Management
 <br>
+
+### 4th. Footer:
+#### At the bottom of the page is the copyright and a link to the Privacy Policy
 <br>
 
 # Screenshot Below:
