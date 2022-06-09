@@ -15,7 +15,7 @@
 #### Cost Management
 
 # Screenshot Below:
-![Alt text](/.assets/images/demo.png "Challenge Demo")
+![Challenge Demo Screenshot](./assets/images/demo.png "Challenge Demo")
 
 # URL Links:
 ## Horiseon: https://morganegilbert.github.io/Horiseon-UI/
